@@ -1,6 +1,6 @@
 # Calories Tracker
 
-Only HTML and JavaScript, using **Materialize** as CSS framework. 
+Only **HTML** and **JavaScript**, using **Materialize** as CSS framework. 
 
 Re-factored/re-styled CodePen.io idea.
 
